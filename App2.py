@@ -28,7 +28,7 @@ is_initialized = False
 def setup_api_key():
     """Sets up the Google API key."""
     if "GOOGLE_API_KEY" not in os.environ:
-        os.environ["GOOGLE_API_KEY"] = "AIzaSyCLJ4JUjx6vmwCQiFHTQH7ceTW-_jffaS8"  # Replace with your actual key
+        os.environ["GOOGLE_API_KEY"] = "[API_key]"  # Replace with your actual key
     return True
 
 def create_or_load_vector_store():
