@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-community
+langchain-google-genai
+langchain-core
+faiss-cpu
+markdown
+google-generativeai
