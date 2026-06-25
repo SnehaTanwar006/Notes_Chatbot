@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+*.log
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+.idea/
+
+# API Keys
+APIKEY*
+*.env
+.env.local
+secrets.py
+
+# Vector store (auto-generated)
+vectorstore_gemini/
