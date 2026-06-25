@@ -156,4 +156,5 @@ Never hardcode API keys in production. Use environment variables or a `.env` fil
 MIT — see [LICENSE](LICENSE).
 
 ---
-*Built with ❤️ by [Sneha Tanwar](https://github.com/SnehaTanwar006)*
+
+<p align="center">Made with ❤️ by <a href="https://github.com/SnehaTanwar006">Sneha Tanwar</a></p>
